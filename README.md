@@ -6,4 +6,4 @@
 
 📗 You can check out the Flytrap [case study](https://getflytrap.github.io/case-study) to learn more. 
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rebecca-biancofiore-8341b5225/) or [email](mailto:rebeccabiancofiore79@gmail.com)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rebecca-biancofiore/) or [email](mailto:rebeccabiancofiore79@gmail.com)
